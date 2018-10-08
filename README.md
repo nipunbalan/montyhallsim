@@ -19,8 +19,13 @@ go run monty.go 100000
 
 ## References
 [21](https://www.imdb.com/title/tt0478087/) movie
+
 [Wikipedia page on Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+
 [Wolfram Mathworld](http://mathworld.wolfram.com/MontyHallProblem.html)
+
 [Prof. Lisa Goldberg's explanation](https://www.youtube.com/watch?v=4Lb-6rxZxx0)
+
 [Prof. Lisa Goldberg's explanation with math proof](https://www.youtube.com/watch?v=ugbWqWCcxrg)
+
 [Monty Hall Problem for Dummies - Numberphile](https://www.youtube.com/watch?v=7u6kFlWZOWg)
